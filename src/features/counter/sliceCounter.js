@@ -5,7 +5,7 @@ const initialStateCounter = {
   counter: 10000,
 };
 
-const userAsync = createAsyncThunk();
+// const userAsync = createAsyncThunk();
 
 const counterRTKSlice = createSlice({
   //nama slice
